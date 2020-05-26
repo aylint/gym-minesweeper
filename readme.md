@@ -26,7 +26,7 @@ There are two implementations with a slight difference in the action spaces.
 The `step` function returns a list of valid actions (i.e. playable cells) in `info` field. 
 
 
-#Installation
+# Installation
 
 ```
 cd gym-minesweeper/
